@@ -14,4 +14,8 @@ Fecha de Estado (Status Date): Uso de fechas de corte(06/03/2026) para separar e
 
 Distintas vistas de MSProject con uso de tareas , formulario de tareas donde asignamos los recursos.
 
-![]()
+![vistas varias con uso de tareas formulario de tareas](vistas-varias.jpg)
+
+Ajustes en la configuracion personalizada en MSproject, desde cambio de formatos, monedas y parametros de dias , semanas y año.
+
+![Ajustes configuracion](Opciones-avanzado-ajusteformatos-ajustesparametros.jpg)
