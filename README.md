@@ -1,0 +1,1 @@
+# MSProject-Organizador-plantilla-Global-ajuste-Calendario-Fecha-de-estado-y-distintas-vistas
