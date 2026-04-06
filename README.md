@@ -9,3 +9,9 @@ Calendarios Personalizados: Configuración de jornadas laborales y festivos para
 ![Ajuste Calendarios](Ajustes-Calendario-proyecto.jpg)
 
 Fecha de Estado (Status Date): Uso de fechas de corte(06/03/2026) para separar el trabajo completado del pendiente, permitiendo un análisis preciso del Valor Acumulado (EVM).
+
+![Fechas de estado](Fechaestado06032026.jpg)
+
+Distintas vistas de MSProject con uso de tareas , formulario de tareas donde asignamos los recursos.
+
+![]()
