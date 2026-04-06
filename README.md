@@ -1,4 +1,4 @@
-El uso de una Plantilla global permite que cualquier Project Manager de la empresa pueda abrir este archivo y entender los indicadores de rendimiento de inmediato, eliminando la curva de aprendizaje y errores de interpretación.
+El uso de una Plantilla global permite que cualquier Project Manager de la empresa pueda abrir este archivo y entender los indicadores de rendimiento de inmediato, eliminando la curva de aprendizaje y errores de interpretación. Este tipo de configuracion nos permite que el cronograma reaccione automáticamente ante retrasos, recalculando el impacto en la Ruta Crítica de forma proactiva.
 
 Creacion de Vistas personalizadas que puedo compartir en distintos proyectos añadiendola en mi proyecto a traves de la plantilla Global. En este proyecto he creado una que empiezan para diferenciarlas de las otras por AAA
 
